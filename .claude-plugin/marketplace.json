@@ -9,8 +9,12 @@
     {
       "name": "auto-git-commit",
       "description": "每次会话结束时自动检测文件变更，AI 归纳 commit message 并 commit + push",
-      "source": "github",
-      "repo": "NumberTheEleven/auto-git-commit"
+      "source": {
+        "source": "github",
+        "repo": "NumberTheEleven/auto-git-commit",
+        "commit": "7d3a78f220b064332f648bc3266aacb0e3f1329c",
+        "sha": "7d3a78f220b064332f648bc3266aacb0e3f1329c"
+      }
     }
   ]
 }
