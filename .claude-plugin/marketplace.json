@@ -15,6 +15,16 @@
         "commit": "7d3a78f220b064332f648bc3266aacb0e3f1329c",
         "sha": "7d3a78f220b064332f648bc3266aacb0e3f1329c"
       }
+    },
+    {
+      "name": "web-claude-chat",
+      "description": "Claude Code 浏览器聊天界面：多标签页项目隔离、Markdown 渲染、Todo 追踪、CLI↔Web 会话桥接",
+      "source": {
+        "source": "github",
+        "repo": "NumberTheEleven/web-claude-chat-plugin",
+        "commit": "95c089d30319186c307defe26c10e915fffe950d",
+        "sha": "95c089d30319186c307defe26c10e915fffe950d"
+      }
     }
   ]
 }
