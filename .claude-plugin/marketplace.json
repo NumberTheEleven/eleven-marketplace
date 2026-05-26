@@ -7,6 +7,16 @@
   },
   "plugins": [
     {
+      "name": "ai-daily-report",
+      "description": "AI 日报生成器 — 采集 GitHub/AI 新闻/排行榜/大佬观点，生成带朗读功能的中文 HTML 日报",
+      "source": {
+        "source": "github",
+        "repo": "NumberTheEleven/ai-daily-report",
+        "commit": "1ebb3905bfb26189fa7315a4a0cf0390df5b6638",
+        "sha": "1ebb3905bfb26189fa7315a4a0cf0390df5b6638"
+      }
+    },
+    {
       "name": "auto-git-commit",
       "description": "每次会话结束时自动检测文件变更，AI 归纳 commit message 并 commit + push",
       "source": {
