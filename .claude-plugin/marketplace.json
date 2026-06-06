@@ -28,12 +28,12 @@
     },
     {
       "name": "web-claude-chat",
-      "description": "Claude Code 浏览器聊天界面：多标签页项目隔离、Markdown 渲染、Todo 追踪、CLI↔Web 会话桥接",
+      "description": "Claude Code 浏览器聊天界面：移动端响应式适配、QR码扫码访问、Markdown/Mermaid 渲染、Todo 追踪、Token 安全认证、CLI↔Web 会话桥接、Windows 防火墙自动管理",
       "source": {
         "source": "github",
         "repo": "NumberTheEleven/web-claude-chat-plugin",
-        "commit": "d5084e3b5f23c1c8093f63b028470f7d77e8dc58",
-        "sha": "d5084e3b5f23c1c8093f63b028470f7d77e8dc58"
+        "commit": "ebafa529527ec15294d543156a82548792e719bf",
+        "sha": "ebafa529527ec15294d543156a82548792e719bf"
       }
     },
     {
@@ -42,8 +42,8 @@
       "source": {
         "source": "github",
         "repo": "NumberTheEleven/devflow",
-        "commit": "9eb617227c5738434953651ef63a09a735bb0dc1",
-        "sha": "9eb617227c5738434953651ef63a09a735bb0dc1"
+        "commit": "ffcebf6a9f0f201f3138b49ba66d23cab5cd74f7",
+        "sha": "ffcebf6a9f0f201f3138b49ba66d23cab5cd74f7"
       }
     }
   ]
