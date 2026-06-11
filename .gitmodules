@@ -1,0 +1,3 @@
+[submodule "plugins/devflow"]
+	path = plugins/devflow
+	url = https://github.com/NumberTheEleven/devflow.git
