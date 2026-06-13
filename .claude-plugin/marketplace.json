@@ -17,16 +17,6 @@
       }
     },
     {
-      "name": "auto-git-commit",
-      "description": "每次会话结束时自动检测文件变更，AI 归纳 commit message 并 commit + push",
-      "source": {
-        "source": "github",
-        "repo": "NumberTheEleven/auto-git-commit",
-        "commit": "e993b96761fff06fc099bade36557669679e789b",
-        "sha": "e993b96761fff06fc099bade36557669679e789b"
-      }
-    },
-    {
       "name": "web-claude-chat",
       "description": "Claude Code 浏览器聊天界面：移动端响应式适配、QR码扫码访问、Markdown/Mermaid 渲染、Todo 追踪、Token 安全认证、CLI↔Web 会话桥接、Windows 防火墙自动管理、实时跨设备同步",
       "source": {
