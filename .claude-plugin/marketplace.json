@@ -38,12 +38,12 @@
     },
     {
       "name": "devflow",
-      "description": "Structured AI-assisted development workflow — from project discovery to verification. Six commands guide you through requirements, design, implementation, and testing with full-chain numbered tracking.",
+      "description": "Structured AI-assisted development workflow — from project discovery to verification. Single entry point /devflow guides you through requirements, design, implementation, and testing with full-chain numbered tracking. Supports three startup modes: git worktree isolation, feat branch development, and main branch development.",
       "source": {
         "source": "github",
         "repo": "NumberTheEleven/devflow",
-        "commit": "ffcebf6a9f0f201f3138b49ba66d23cab5cd74f7",
-        "sha": "ffcebf6a9f0f201f3138b49ba66d23cab5cd74f7"
+        "commit": "e761eba83744fe4af39bdc793a0f93377ecd8d84",
+        "sha": "e761eba83744fe4af39bdc793a0f93377ecd8d84"
       }
     }
   ]
